@@ -1,0 +1,24 @@
+.user-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-details p {
+  margin: 0;
+  padding: 5px;
+}
+
+.email {
+  font-weight: bold;
+  color: #333;
+}
+
+.name {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.mobile {
+  color: #666;
+}
